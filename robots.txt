@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 
 # Replace with your real domain before publishing.
-Sitemap: https://YOUR-DOMAIN.example/sitemap.xml
+Sitemap: https://noahhagglund.com//sitemap.xml
